@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-label="Varicose veins symptoms illustration">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#eef7ff"/><stop offset="1" stop-color="#fff2f5"/></linearGradient><linearGradient id="skin" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#f4c7a1"/><stop offset="1" stop-color="#dfa47d"/></linearGradient><filter id="soft" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="20" stdDeviation="20" flood-color="#0b2239" flood-opacity=".18"/></filter></defs>
+<rect width="720" height="720" rx="48" fill="url(#bg)"/>
+<circle cx="580" cy="118" r="72" fill="#be2048" opacity=".12"/>
+<circle cx="110" cy="594" r="92" fill="#0b2239" opacity=".08"/>
+<g filter="url(#soft)">
+<path d="M312 74c53 22 72 78 56 162-9 51-17 108-8 171 10 71 45 124 43 182-2 48-34 75-78 69-53-8-76-49-78-97-4-79 34-139 37-211 4-77-31-151-20-217 7-39 21-62 48-59z" fill="url(#skin)"/>
+<path d="M438 86c49 14 75 62 68 146-4 54-16 103-6 170 11 70 48 122 48 181 0 48-30 78-75 75-56-4-82-44-87-91-8-79 26-142 24-214-1-78-41-148-35-214 4-39 25-61 63-53z" fill="url(#skin)"/>
+</g>
+<path d="M319 143c25 44 18 78-6 112-32 45-30 84 0 132 28 44 28 85-3 131" fill="none" stroke="#7d2a91" stroke-width="11" stroke-linecap="round"/>
+<path d="M456 155c-22 39-15 72 9 103 33 42 31 80 2 126-29 45-28 86 8 139" fill="none" stroke="#1c5aa6" stroke-width="10" stroke-linecap="round"/>
+<path d="M318 220c-35 12-47 29-42 58M313 389c-35 4-54 23-57 58M457 273c34 9 48 28 47 61M467 411c34 7 53 26 58 59" fill="none" stroke="#be2048" stroke-width="8" stroke-linecap="round"/>
+<g fill="#fff" stroke="#dfe8ef" stroke-width="2">
+<rect x="62" y="95" width="190" height="58" rx="18"/><rect x="468" y="70" width="190" height="58" rx="18"/><rect x="70" y="500" width="220" height="58" rx="18"/><rect x="438" y="535" width="210" height="58" rx="18"/>
+</g>
+<g fill="#0b2239" font-family="Arial, sans-serif" font-size="22" font-weight="700"><text x="91" y="132">Heaviness</text><text x="501" y="107">Swelling</text><text x="103" y="537">Visible Veins</text><text x="474" y="572">Night Cramps</text></g>
+<g fill="#be2048"><circle cx="78" cy="123" r="8"/><circle cx="486" cy="98" r="8"/><circle cx="88" cy="529" r="8"/><circle cx="458" cy="564" r="8"/></g>
+</svg>
